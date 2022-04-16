@@ -11,7 +11,7 @@ If you drive into the Sandy area with one of these vehicles they will attack you
 They can do the following
 
 1. If you are stopped they will pull you out of the car and beat you up
-2. Ram your car while your driving
+2. Ram your car while you're driving
 3. Shoot at you
 
 
