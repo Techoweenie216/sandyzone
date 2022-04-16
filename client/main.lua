@@ -2,7 +2,7 @@
 Citizen.CreateThread(function()
    
 	while true do
-	local ped = GetPlayerPed(-1)
+	local ped = PlayerPedId()
 	local playerCoords = GetEntityCoords(ped)
 	local x,y,z = table.unpack(GetEntityCoords(ped, true))
 	CurrentZone = GetNameOfZone(x, y, z)
