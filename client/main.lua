@@ -35,7 +35,7 @@ Citizen.CreateThread(function()
 				TaskCombatPed(GetHashKey('CIVMALE'), ped)
 				TaskCombatPed(GetHashKey('CIVFEMALE'), ped)
 			else
-				SetRelationshipBetweenGroups(5, GetHashKey('AMBIENT_GANG_HILLBILLY'), GetHashKey('PLAYER'))
+				SetRelationshipBetweenGroups(3, GetHashKey('AMBIENT_GANG_HILLBILLY'), GetHashKey('PLAYER'))
 				SetRelationshipBetweenGroups(3, GetHashKey('SPECIAL'), GetHashKey('PLAYER'))	
 				SetRelationshipBetweenGroups(3, GetHashKey('NO_RELATIONSHIP'), GetHashKey('PLAYER'))
 				SetRelationshipBetweenGroups(3, GetHashKey('CIVMALE'), GetHashKey('PLAYER'))
@@ -43,7 +43,7 @@ Citizen.CreateThread(function()
 			end
 		end
 	else
-		SetRelationshipBetweenGroups(5, GetHashKey('AMBIENT_GANG_HILLBILLY'), GetHashKey('PLAYER'))
+		SetRelationshipBetweenGroups(3, GetHashKey('AMBIENT_GANG_HILLBILLY'), GetHashKey('PLAYER'))
 		SetRelationshipBetweenGroups(3, GetHashKey('SPECIAL'), GetHashKey('PLAYER'))	
 		SetRelationshipBetweenGroups(3, GetHashKey('NO_RELATIONSHIP'), GetHashKey('PLAYER'))
 		SetRelationshipBetweenGroups(3, GetHashKey('CIVMALE'), GetHashKey('PLAYER'))
