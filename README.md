@@ -15,3 +15,4 @@ They can do the following
 3. Shoot at you
 
 
+![sandy1](https://user-images.githubusercontent.com/91137866/166124192-029a6b4c-eddc-4a91-bee8-23c462a7a4bf.JPG)
